@@ -11,7 +11,7 @@ final class Controller extends Package
 {
     protected $pkgHandle = 'migrate';
     protected $appVersionRequired = '8.2.1';
-    protected $pkgVersion = '0.9.7';
+    protected $pkgVersion = '1.0.0';
     protected $pkgAutoloaderRegistries = [
         'src/Migrate' => '\A3020\Migrate',
     ];

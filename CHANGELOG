@@ -1,3 +1,6 @@
+1.0.0
+- Approved by PRB.
+
 0.9.7
 - Make batch size and batch max number of rows configurable.
 
